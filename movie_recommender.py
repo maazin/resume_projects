@@ -1,6 +1,3 @@
-# Install required libraries if not already installed
-!pip install pandas numpy scikit-learn streamlit
-
 import pandas as pd
 import numpy as np
 from sklearn.neighbors import NearestNeighbors
